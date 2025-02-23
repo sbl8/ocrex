@@ -1,0 +1,43 @@
+<svg
+    viewBox="0 0 200 200"
+    xmlns="http://www.w3.org/2000/svg"
+    fill="none"
+    stroke="black"
+    stroke-width="2"
+>
+    <!-- Tail -->
+    <path
+        d="M150 80c20 40-20 80-50 80s-50-40-30-70c20-30 70-20 80 10z"
+        fill="#d2691e"
+        stroke="none"
+    />
+    <!-- Body -->
+    <ellipse cx="100" cy="120" rx="40" ry="50" fill="#a0522d" stroke="none" />
+    <!-- Head -->
+    <circle cx="100" cy="70" r="30" fill="#a0522d" stroke="none" />
+    <!-- Ears -->
+    <circle cx="80" cy="50" r="10" fill="#a0522d" stroke="none" />
+    <circle cx="120" cy="50" r="10" fill="#a0522d" stroke="none" />
+    <!-- Eyes -->
+    <circle cx="90" cy="65" r="5" fill="black" />
+    <circle cx="110" cy="65" r="5" fill="black" />
+    <!-- Nose -->
+    <circle cx="100" cy="75" r="4" fill="black" />
+    <!-- Mouth -->
+    <path
+        d="M90 80c5 10 15 10 20 0"
+        stroke="black"
+        stroke-width="2"
+        fill="none"
+    />
+    <!-- Arms -->
+    <path d="M70 120c5 10 10 10 15 5" stroke="#a0522d" stroke-width="5" />
+    <path d="M130 120c-5 10-10 10-15 5" stroke="#a0522d" stroke-width="5" />
+    <!-- Acorn -->
+    <ellipse cx="75" cy="135" rx="8" ry="12" fill="#8b4513" stroke="none" />
+    <path d="M67 125h16" stroke="black" stroke-width="2" />
+    <path d="M75 120v-5" stroke="black" stroke-width="2" />
+    <!-- Feet -->
+    <path d="M80 160c5 10 10 10 15 0" stroke="#a0522d" stroke-width="5" />
+    <path d="M120 160c-5 10-10 10-15 0" stroke="#a0522d" stroke-width="5" />
+</svg>
