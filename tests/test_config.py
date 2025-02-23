@@ -1,5 +1,6 @@
 # bandit: skip=B101
 import os
+import pytest
 from ocrex.config import Config
 
 
