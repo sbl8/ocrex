@@ -3,7 +3,6 @@ import os
 import pytest
 from ocrex.utils import pdf_to_images, images_to_pdf, cleanup_temp_files
 from PIL import Image
-from pdf2image.exceptions import PDFInfoNotInstalledError
 
 
 def create_dummy_pdf(path: str):
